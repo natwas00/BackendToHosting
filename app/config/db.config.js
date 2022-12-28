@@ -25,10 +25,10 @@
 //     }
 //   };
 module.exports = {
-    HOST: "storage2100.is.cc",
-    USER: "st28563_superstudy",
-    PASSWORD: "I9TS!6sP1Nf!t1Z^%4P",
-    DB: "st28563_superstudy",
+    HOST: "34.118.118.193",
+    USER: "root",
+    PASSWORD: "Y8UCTS';B1BOko1K",
+    DB: "superbase",
     dialect: "mysql",
     pool: {
       max: 5,
